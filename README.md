@@ -13,9 +13,9 @@ Link's Adventure Run est un petit jeu de plateforme où vous incarnez Link. L'ob
 
 3. **Démarrer le jeu** : Sélectionnez l'option "Start" dans le menu pour commencer l'aventure.
 
-4. **Contrôler Link** : Utilisez les flèches directionnelles pour déplacer Link et sauter.
+4. **Contrôler Link** : Utilisez les flèches directionnelles pour déplacer Link.
 
-5. **Collecter des pièces** : Ramassez autant de pièces que possible en naviguant à travers les niveaux.
+5. **Collecter des pièces** : Ramassez autant de pièces que possible en naviguant à travers le niveau.
 
 6. **Atteindre le château** : Assurez-vous d'arriver au château avant la fin du compte à rebours.
 
@@ -25,7 +25,7 @@ Link's Adventure Run est un petit jeu de plateforme où vous incarnez Link. L'ob
 
 ## Fonctionnalités
 
-- **Contrôle du personnage** : Commandes simples pour se déplacer et sauter.
+- **Contrôle du personnage** : Commandes simples pour se déplacer.
 - **Collectibles** : Pièces à ramasser pour accumuler des points.
 - **Obstacles et ennemis** : Divers monstres et défis à surmonter.
 - **Chronomètre** : Compte à rebours pour ajouter de l'urgence.
@@ -51,9 +51,9 @@ Link's Adventure Run is a small platformer game where you control Link. The goal
 
 3. **Start the Game**: Select "Start" from the menu to begin the adventure.
 
-4. **Control Link**: Use the arrow keys to move and jump.
+4. **Control Link**: Use the arrow keys to move.
 
-5. **Collect Coins**: Gather as many coins as possible while navigating through the levels.
+5. **Collect Coins**: Gather as many coins as possible while navigating through the level.
 
 6. **Reach the Castle**: Make sure to get to the castle before the timer runs out.
 
@@ -63,7 +63,7 @@ Link's Adventure Run is a small platformer game where you control Link. The goal
 
 ## Features
 
-- **Character Control**: Simple controls for moving and jumping.
+- **Character Control**: Simple controls for moving.
 - **Collectibles**: Coins scattered throughout the level for points.
 - **Obstacles and Enemies**: Various monsters and challenges to overcome.
 - **Timer**: Countdown to track your progress and add urgency.
